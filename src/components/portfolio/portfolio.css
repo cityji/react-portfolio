@@ -30,9 +30,14 @@
 }
 
 .portfolio_item-image{
-    height: 9rem;
+    height: 16rem;
      border-radius: 0.5rem;
      overflow: hidden;
+}
+.portfolio_item-image img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
 }
 .portfolio_item h3{
     margin: 1.2rem 0 2rem;
