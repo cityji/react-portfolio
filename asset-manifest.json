@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.e964bc31.css",
+    "main.js": "/react-portfolio/static/js/main.d10deb0b.js",
+    "static/media/texture.jpg": "/react-portfolio/static/media/texture.2ed7116d1953a9c5c85e.jpg",
+    "static/media/wish.png": "/react-portfolio/static/media/wish.3ef936ebfa5d54fdcc35.png",
+    "static/media/portfolio.png": "/react-portfolio/static/media/portfolio.578c82e11400fa2b4a75.png",
+    "static/media/child_welfare.png": "/react-portfolio/static/media/child_welfare.441c53b9e19fa5c31600.png",
+    "static/media/student.jpg": "/react-portfolio/static/media/student.c8d2ff97be9ec048f2ec.jpg",
+    "static/media/cv.pdf": "/react-portfolio/static/media/cv.012b3d72adce33db53bc.pdf",
+    "static/media/Students Group.png": "/react-portfolio/static/media/Students Group.5958a136056e6747ccbe.png",
+    "static/media/attandence.png": "/react-portfolio/static/media/attandence.a1ae7fccf809873e1c87.png",
+    "static/media/quote.png": "/react-portfolio/static/media/quote.be1d66b38321c55710b5.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.e964bc31.css.map": "/react-portfolio/static/css/main.e964bc31.css.map",
+    "main.d10deb0b.js.map": "/react-portfolio/static/js/main.d10deb0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e964bc31.css",
+    "static/js/main.d10deb0b.js"
+  ]
+}
